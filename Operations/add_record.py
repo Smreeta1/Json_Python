@@ -11,4 +11,3 @@ def add_person(file_path, new_person):
         json.dump(data, file,indent=2)
 
 
-file_path = "./data.json" 
