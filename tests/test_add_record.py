@@ -24,4 +24,7 @@ def test_add_person():
         data = json.load(file)
 
     assert data == previous_data + [new_person], "The new person was not added correctly."
-    os.remove(file_path)  #Removing the temp Json file after test completion
+    os.remove(file_path)  #Removing the temp Json file after test compl
+    
+if __name__ == "__main__":
+    pytest.main()
