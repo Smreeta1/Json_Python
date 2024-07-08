@@ -14,7 +14,7 @@ def test_add_person():
     new_person = {"name": "Hari", "age": 24, "city": "BRT"}
 
 
-    file_path = "temp_data.json"
+    file_path = "./data.json"
     with open(file_path, 'w') as json_file:
         json.dump(previous_data, json_file, indent=2)
 

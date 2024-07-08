@@ -11,7 +11,3 @@ def delete_person(file_path, person_name):
         json.dump(data, file, indent=2)
 
 
-person_name = "Hari"
-file_path = "./data.json" 
-
-delete_person(file_path, person_name)  #delete record
