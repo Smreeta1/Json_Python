@@ -1,1 +1,27 @@
-[{"name": "Ram", "age": 20, "city": "ktm"}, {"name": "Sita", "age": 22, "city": "Ktm"}, {"name": "Abc", "age": 32, "city": "Bkt"}]
+[
+  {
+    "name": "Ram",
+    "age": 20,
+    "city": "ktm"
+  },
+  {
+    "name": "Sita",
+    "age": 22,
+    "city": "Ktm"
+  },
+  {
+    "name": "Abc",
+    "age": 32,
+    "city": "Bkt"
+  },
+  {
+    "name": "Hari",
+    "age": 24,
+    "city": "BRT"
+  },
+  {
+    "name": "Hari",
+    "age": 24,
+    "city": "BRT"
+  }
+]
