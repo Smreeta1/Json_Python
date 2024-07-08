@@ -23,5 +23,10 @@
     "name": "Hari",
     "age": 24,
     "city": "BRT"
+  },
+  {
+    "name": "new",
+    "age": 24,
+    "city": "BRT"
   }
 ]
