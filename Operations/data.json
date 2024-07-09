@@ -5,11 +5,6 @@
     "city": "ktm"
   },
   {
-    "name": "Sita",
-    "age": 22,
-    "city": "Ktm"
-  },
-  {
     "name": "Abc",
     "age": 32,
     "city": "Bkt"
@@ -20,13 +15,33 @@
     "city": "BRT"
   },
   {
-    "name": "Hari",
+    "name": "new",
     "age": 24,
     "city": "BRT"
   },
   {
-    "name": "new",
-    "age": 24,
-    "city": "BRT"
+    "name": "Git",
+    "age": 20,
+    "city": "Pkr"
+  },
+  {
+    "name": "Gita",
+    "age": 20,
+    "city": "Pkr"
+  },
+  {
+    "name": "Gitaa",
+    "age": 20,
+    "city": "Pkr"
+  },
+  {
+    "name": "Check",
+    "age": 20,
+    "city": "Pkr"
+  },
+  {
+    "name": "final",
+    "age": 20,
+    "city": "Pkr"
   }
 ]
